@@ -1,0 +1,10 @@
+{% extends "movies/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+  <form method="post" class="col-md-6">
+    {% csrf_token %}
+    {{ form|crispy }}
+    <button class="btn btn-success">Zapisz</button>
+    <a href="{% url 'movies:list' %}" class="btn btn-secondary">Anuluj</a>
+  </form>
+{% endblock %}

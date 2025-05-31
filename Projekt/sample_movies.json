@@ -1,0 +1,182 @@
+[
+  {
+    "model": "movies.movie",
+    "pk": 1,
+    "fields": {
+      "title": "Blade Runner",
+      "director": "Ridley Scott",
+      "rating": 8.5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 2,
+    "fields": {
+      "title": "Parasite",
+      "director": "Bong Joon-ho",
+      "rating": 8.6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 3,
+    "fields": {
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "rating": 8.8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 4,
+    "fields": {
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "rating": 9.2
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 5,
+    "fields": {
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "rating": 8.9
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 6,
+    "fields": {
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "rating": 8.6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 7,
+    "fields": {
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "rating": 9.3
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 8,
+    "fields": {
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "rating": 9.0
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 9,
+    "fields": {
+      "title": "Schindler's List",
+      "director": "Steven Spielberg",
+      "rating": 9.0
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 10,
+    "fields": {
+      "title": "The Matrix",
+      "director": "The Wachowskis",
+      "rating": 8.7
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 11,
+    "fields": {
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "rating": 8.6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 12,
+    "fields": {
+      "title": "La La Land",
+      "director": "Damien Chazelle",
+      "rating": 8.0
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 13,
+    "fields": {
+      "title": "Whiplash",
+      "director": "Damien Chazelle",
+      "rating": 8.5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 14,
+    "fields": {
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "rating": 8.8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 15,
+    "fields": {
+      "title": "The Silence of the Lambs",
+      "director": "Jonathan Demme",
+      "rating": 8.6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 16,
+    "fields": {
+      "title": "Gladiator",
+      "director": "Ridley Scott",
+      "rating": 8.5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 17,
+    "fields": {
+      "title": "City of God",
+      "director": "Fernando Meirelles",
+      "rating": 8.7
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 18,
+    "fields": {
+      "title": "The Grand Budapest Hotel",
+      "director": "Wes Anderson",
+      "rating": 8.1
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 19,
+    "fields": {
+      "title": "Crouching Tiger, Hidden Dragon",
+      "director": "Ang Lee",
+      "rating": 7.9
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 20,
+    "fields": {
+      "title": "Amélie",
+      "director": "Jean-Pierre Jeunet",
+      "rating": 8.3
+    }
+  }
+]
